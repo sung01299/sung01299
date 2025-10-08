@@ -1,1 +1,1 @@
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sung01299&layout=compact&theme=theme)
+![GitHub Langs](github-readme-stats-khaki-gamma-34.vercel.app/api/top-langs/?username=sung01299&layout=compact&theme=theme)
